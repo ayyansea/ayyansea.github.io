@@ -5,7 +5,7 @@
 
 задача: собрать механическую клавиатуру
 
-![idef0](https://github.com/ayyansea/ayyansea.github.com/blob/main/laba1/01_A0.png?raw=true)
+![idef0](https://github.com/ayyansea/ayyansea.github.io/blob/main/laba1/01_A0.png)
 
 Ссылки на доп.материалы
 
