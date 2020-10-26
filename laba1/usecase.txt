@@ -1,0 +1,25 @@
+@startuml
+skinparam actor {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+skinparam usecase {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+skinparam {
+        BackgroundColor Pink
+}
+left to right direction
+actor P0 as "Человек"
+actor M0 as "Инструмент"
+actor P as "Сборщик техники"
+actor M as "Отвёртка, паяльник"
+usecase A as "Собрать"
+P -- (A)
+(A) -- M
+P0 <|-- P
+M --|> M0
+@enduml
