@@ -15,6 +15,12 @@
 
 [Код](https://github.com/ayyansea/ayyansea.github.io/blob/main/laba1/uml.txt)
 
+### Use-case Diagram
+
+![usecase](https://github.com/ayyansea/ayyansea.github.io/blob/main/laba1/usecasepic.png)
+
+[Код](https://github.com/ayyansea/ayyansea.github.io/blob/main/laba1/usecase.txt)
+
 ## Лабораторная 2
 
 ## Лабораторная 3
