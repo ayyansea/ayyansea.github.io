@@ -1,5 +1,5 @@
 # Отчет о лабораторных работах
-# студент группы [ИДБ-17-07](https://github.com/stankin/design-part-1/wiki/list-idb-17-07) Шаховцев Д.
+#  Шаховцев Д. [ИДБ-17-07](https://github.com/stankin/design-part-1/wiki/list-idb-17-07)
 
 ## Лабораторная 1
 
