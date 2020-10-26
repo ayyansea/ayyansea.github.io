@@ -9,6 +9,12 @@
 
 Ссылки на доп.материалы
 
+### Class Diagram
+
+![classdiag](https://github.com/ayyansea/ayyansea.github.io/blob/main/laba1/table.png)
+
+[Код](https://github.com/ayyansea/ayyansea.github.io/blob/main/laba1/uml.txt)
+
 ## Лабораторная 2
 
 ## Лабораторная 3
