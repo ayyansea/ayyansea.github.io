@@ -7,8 +7,6 @@
 
 ![idef0](https://github.com/ayyansea/ayyansea.github.io/blob/main/laba1/01_A0.png)
 
-Ссылки на доп.материалы
-
 ### Class Diagram
 
 ![classdiag](https://github.com/ayyansea/ayyansea.github.io/blob/main/laba1/table.png)
