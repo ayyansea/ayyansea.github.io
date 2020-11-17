@@ -1,3 +1,5 @@
+# [Семинары](https://github.com/ayyansea/ayyansea.github.io/blob/main/sem.md) 
+
 # Отчет о лабораторных работах
 #  Шаховцев Д. [ИДБ-17-07](https://github.com/stankin/design-part-1/wiki/list-idb-17-07)
 
