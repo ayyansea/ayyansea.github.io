@@ -1,0 +1,33 @@
+@startuml
+skinparam actor {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+skinparam usecase {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+skinparam boundary {
+BorderColor Black
+BackgroundColor White
+}
+skinparam database {
+BorderColor Black
+BackgroundColor White
+}
+skinparam {
+        BackgroundColor Pink
+}
+actor "Клиент" as owner
+boundary "Приложение" as app
+database "База данных" as data
+actor "Сборщик техники" as trainee
+owner -> app : Запрос на выполнение заказа
+app -> data : Детали заказа 
+trainee -> data : Подтверждение
+data -> trainee : Требования
+app -> owner : Заказ принят
+data -> app : Статус заказа
+@enduml
