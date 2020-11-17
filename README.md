@@ -49,6 +49,20 @@
 
 ## Лабораторная 3
 
+# диаграмма последовательности
+
+![uml1](https://github.com/ayyansea/ayyansea.github.io/blob/main/laba3/uml.png)
+
+[Код](https://github.com/ayyansea/ayyansea.github.io/blob/main/laba3/code.txt)
+
+клиент отправляет заказ через приложение, в базе отражаются детали заказа, которые видит сборщик; сборщик принимает заказ и это отображается в приложении клиента
+
+# ER-диаграмма
+
+![uml2](https://github.com/ayyansea/ayyansea.github.io/blob/main/laba3/uml2.png)
+
+[Код](https://github.com/ayyansea/ayyansea.github.io/blob/main/laba3/code2.txt)
+
 ## Лабораторная 4
 
 ## Лабораторная 5
