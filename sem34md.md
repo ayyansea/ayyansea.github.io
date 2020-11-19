@@ -78,7 +78,7 @@
 | СП (Аналитик) | Сбор и управление всеми требованиями в проекте | [Шаховцев](https://github.com/ayyansea/ayyansea.github.io) | [Шалаев](https://github.com/Dsgjrk/shalaev.github.io)
 | ВН (Дизайнер)	| Удобство использования, привлекательность продукта | [Кривопалова](https://github.com/mayakriv/mayakriv.github.io) | -
 | БА (Тестировщик) | Выявление бизнес-проблем, способы тестирования | [Шалаев](https://github.com/Dsgjrk/shalaev.github.io) | [Вебер](https://github.com/viveber/VeberVA)
-| НИ (Архитектор) | Структура продукта, инструменты разработки и поставки | [Вебер]()https://github.com/viveber/VeberVA | -
+| НИ (Архитектор) | Структура продукта, инструменты разработки и поставки | [Вебер](https://github.com/viveber/VeberVA) | -
 | ПП (Программист) | Стиль и способы разработки, используемые фреймворки | [Гулан]() | -
 | КО (Тех.писатель) | Документирование проекта и продукта | [Шаховцев](https://github.com/ayyansea/ayyansea.github.io) | [Кривопалова](https://github.com/mayakriv/mayakriv.github.io)
 
